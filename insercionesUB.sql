@@ -8,7 +8,7 @@ INSERT INTO departamento VALUES (6, 'Química y Física');
 INSERT INTO departamento VALUES (7, 'Filología');
 INSERT INTO departamento VALUES (8, 'Derecho');
 INSERT INTO departamento VALUES (9, 'Biología y Geología');
- 
+
  /* Persona */
 INSERT INTO alumno VALUES (1, '89542419S', 'Juan', 'Saez', 'Vega', 'Almería', 'C/ Mercurio', '618253876', '1992/08/08', 'H');
 INSERT INTO alumno VALUES (2, '26902806M', 'Salvador', 'Sánchez', 'Pérez', 'Almería', 'C/ Real del barrio alto', '950254837', '1991/03/28', 'H');
@@ -52,7 +52,7 @@ INSERT INTO grado VALUES (7, 'Grado en Biotecnología (Plan 2015)');
 INSERT INTO grado VALUES (8, 'Grado en Ciencias Ambientales (Plan 2009)');
 INSERT INTO grado VALUES (9, 'Grado en Matemáticas (Plan 2010)');
 INSERT INTO grado VALUES (10, 'Grado en Química (Plan 2009)');
- 
+
 /* Asignatura */
 INSERT INTO asignatura VALUES (1, 'Álgegra lineal y matemática discreta', 6, 'básica', 1, 1, NULL, 4);
 INSERT INTO asignatura VALUES (2, 'Cálculo', 6, 'básica', 1, 1, NULL, 4);
