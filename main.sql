@@ -1,0 +1,1 @@
+IMPORT ./insercionesUB.sql
